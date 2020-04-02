@@ -6,20 +6,14 @@ import level2
 import time   # timer
 
 
-def test():
-    print(asciiart.baby_dragon())
-
-    print(asciiart.big_skull())
-
-    print(asciiart.dragon())
-
-    print(asciiart.samurai())
-
-    print(asciiart.skull_cross())
-
-    print(asciiart.warrior())
-
-    print(asciiart.chicken())
+#def test():
+#    print(asciiart.baby_dragon())
+#    print(asciiart.big_skull())
+#    print(asciiart.dragon())
+#    print(asciiart.samurai())
+#    print(asciiart.skull_cross())
+#    print(asciiart.warrior())
+#    print(asciiart.chicken())
 
 
 def start_dungeon():
