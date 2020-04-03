@@ -1,19 +1,19 @@
-= Intro to Python Class 3
+# Intro to Python Class 3
 
 We will further examine structuring of code by using modules and imports. We will also utilize some built-in modules to get more extensive behavior.
 
-== Class 3 Goals
+## Class 3 Goals
 
-# New program. Import a built-in module and use a sound
-# Create a module library to hold useful functions
-# Restructure a story for logical separation
-# Explore new data types:
+1. New program. Import a built-in module and use a sound
+2. Create a module library to hold useful functions
+3. Restructure a story for logical separation
+4. Explore new data types:
   * Tuple
   * Set
   * Dictionary
-# Bonus: Refactor for reuse
+5. Bonus: Refactor for reuse
 
-== Homework
+## Homework
 The homework will be to take your "Choose your own Adventure" program and break it apart into separate modules and make use of built-in module functions.
 
 * Make a copy of your program for extension
@@ -23,5 +23,5 @@ The homework will be to take your "Choose your own Adventure" program and break 
 
 Please submit your program via email (copy/paste) to me goosemanjack@gmail.com prior to next Tuesday April 7th.
 
-=== Git Repository
+### Git Repository
 https://github.com/goosemanjack/python_intro_class

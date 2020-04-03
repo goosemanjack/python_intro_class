@@ -1,5 +1,5 @@
-= Intro to Python Class 1
-== Prerequisites and Intro
+# Intro to Python Class 1
+## Prerequisites and Intro
 Welcome to introduction to computer programming in Python!
  
 The first step before we begin our course is to configure your development environment. We are a Windows household, so the provided links are specific to Windows systems. I'm going to try using video conferencing for instruction, and lots of hands on with yourself. We are at the "hello world" level to begin.
@@ -18,12 +18,12 @@ The first class will be based on above python tutorial.
 
 Class 1 Goals
 
-# Verify your development environment
-# Verify VS Code
-# Verify Python on command line
-# VS Code > View > Command Pallet
-# Create a Project folder
-# Write "Hello World" program
-# Execute the program
-# Modify to use a variable
-# Set a breakpoint and Run in a Debugger
+1. Verify your development environment
+2. Verify VS Code
+3. Verify Python on command line
+4. VS Code > View > Command Pallet
+5. Create a Project folder
+6. Write "Hello World" program
+7. Execute the program
+8. Modify to use a variable
+9. Set a breakpoint and Run in a Debugger
